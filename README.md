@@ -15,6 +15,7 @@ repos:
        - id: ansible_role_fix_readability
        - id: ansible_role_find_undefined_handlers
        - id: ansible_role_find_unquoted_values
+       - id: ansible_role_find_horizonal_when
 ```
 
 You can also select single checks, read futher for more details.
